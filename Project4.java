@@ -2,11 +2,11 @@ import java.util.Scanner;
 
 public class Project4 {
     public static void main(String[] args) {
-        // Constant
+        // Constants
         final int SENTINEL = -1;
         final int INITIAL_SETTING = 3;
 
-        // Scanner that takes user input
+        // Opens the scanner
         Scanner scanner = new Scanner(System.in);
 
         // Variables for dial settings and changes
